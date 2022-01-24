@@ -4,4 +4,4 @@ project(Client_test)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1y -Wall -Wextra")
 
-add_executable(Client_test main.cpp)
+add_executable(Balancer_sender main.cpp)
